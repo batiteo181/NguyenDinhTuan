@@ -1,0 +1,19 @@
+// Bài 1 :If temp > 30 --> hot day
+//Otherwise, if temp từ 20 - 30 --> nice day
+// Otherwise --> cold
+
+
+
+public class Bai1 {
+  public static void main(String[] args) {
+  String temp = "The weather of today is a very ";
+  int todaytemp = i
+  if ( i>30 )
+  
+
+  }
+}
+
+
+
+// Bài 2 : Giải phương trình bậc nhất: a*x + b = 0
